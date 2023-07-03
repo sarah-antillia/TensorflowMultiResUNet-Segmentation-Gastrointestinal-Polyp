@@ -1,0 +1,2 @@
+# TensorflowMultiResUNet-Segmentation-Gastrointestinal-Polyp
+Tensorflow MultiResUNet Segmentation for Gastrointestinal Polyp
